@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Danil Ponomarenko</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi👋, my name is Danya.
+
+        \n\nWith a long experience in Java development, I am looking forward to new opportunities in technology.
+
+        \n\nMy technological journey began with a passion for gadgets and software back in childhood,
+        and now I have chosen my path in life while studying at the Faculty of Computer Science at Kharkov National University of Radio Electronics.
+
+        \n\nI offer strong software skills and project management experience that inspires and builds confidence in me in my teams.
+
+        \n\nMy journey is marked by many scientific, sporting and social achievements.
+
+        \n\nI speak English at B2 level.
+
+        \n\nI am here to make a significant impact in a dynamic technological world with unwavering confidence and inspiration for my cause.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
